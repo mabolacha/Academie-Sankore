@@ -1,1 +1,1 @@
-# Academie-Sankore
+# academiesankore
